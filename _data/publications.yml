@@ -1,22 +1,45 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos"
+    authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    # pdf: ADD_LINK_WHEN_AVAILABLE
+    # image: ./assets/img/vfsd.png
+
+  - title: "Seeing the Unseen: Enhancing Synthetic Video Detector Transferability to New AI Video Generation Models via Virtual Generators"
+    authors: Danial Samadi Vahdati, Tai D. Nguyen, <strong>Aref Azizpour</strong>, Hamed Ahangari, Matthew C. Stamm
+    conference_short: IH&MMSec
+    conference: ACM Workshop on Information Hiding and Multimedia Security <strong>(IH&MMSec)</strong>, 2026.
+    pdf: https://doi.org/10.1145/3785353.3815083
+    # image: ./assets/img/seeing_the_unseen.png
+
+  - title: "Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images"
+    authors: Tai D. Nguyen, <strong>Aref Azizpour</strong>, Matthew C. Stamm
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Nguyen_Forensic_Self-Descriptions_Are_All_You_Need_for_Zero-Shot_Detection_Open-Set_CVPR_2025_paper.pdf
+    # image: ./assets/img/fsd.png
+
+  - title: "Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution"
+    authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
+    conference_short: arXiv
+    conference: <strong>arXiv preprint</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2504.03615
+    # image: ./assets/img/self_adapting.png
+
+  - title: "E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data"
+    authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Manil Shrestha, Kaidi Xu, Edward Kim, Matthew C. Stamm
+    conference_short: CVPRW
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Azizpour_E3_Ensemble_of_Expert_Embedders_for_Adapting_Synthetic_Image_Detectors_CVPRW_2024_paper.pdf
+    code: https://github.com/ArefAz/E3-Ensemble-of-Expert-Embedders-CVPRWMF24
+    # image: ./assets/img/e3.png
+
+  - title: "Beyond Deepfake Images: Detecting AI-Generated Videos"
+    authors: Danial Samadi Vahdati, Tai D. Nguyen, <strong>Aref Azizpour</strong>, Matthew C. Stamm
+    conference_short: CVPRW
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Vahdati_Beyond_Deepfake_Images_Detecting_AI-Generated_Videos_CVPRW_2024_paper.pdf
+    # image: ./assets/img/beyond_deepfake.png
