@@ -15,9 +15,10 @@ Computer Vision · AI-Generated Media Forensics · Open-World Machine Learning �
 ## News
 
 - **[Sep. 2026]** Our work on zero-shot detection of AI-generated videos was accepted to **NeurIPS 2026 as an Oral Presentation**.
-- **[2026]** Our paper *Seeing the Unseen: Enhancing Synthetic Video Detector Transferability* was accepted to **ACM IH&MMSec 2026**.
-- **[Feb. 2025]** Our paper *Zero-Shot Detection of AI-Generated Images* was accepted to **CVPR 2025**.
-- **[2024]** Our works on continual learning of AI-generated images and AI-generated video detection were accepted to the **CVPR 2024 Workshops**.
+- **[Apr. 2026]** Our work on improving synthetic video detector transferability was accepted to **ACM IH&MMSec 2026**.
+- **[Feb. 2025]** Our work on zero-shot detection of AI-generated images was accepted to **CVPR 2025**.
+- **[Apr. 2024]** Our work on continual learning of AI-generated image detectors was accepted to the **CVPR 2024 Workshops**.
+- **[Apr. 2024]** Our work *Beyond Deepfake Images: Detecting AI-Generated Videos* was accepted to the **CVPR 2024 Workshops**.
 
 {% include_relative _includes/publications.md %}
 
