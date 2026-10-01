@@ -6,14 +6,14 @@ email: aa4639 (at) drexel.edu
 
 # Search Engine Optimization (SEO)
 keywords: aref azizpour, computer vision, ai-generated media, synthetic media detection, deepfake detection, ai forensics
-description: Aref Azizpour is a Ph.D. student in Computer Science at Drexel University researching AI-generated media detection, synthetic media forensics, and open-world machine learning.
+description:description: I am a Ph.D. student in Computer Science at Drexel University. My research focuses on AI-generated media detection, synthetic media forensics, and open-world machine learning.
 canonical: https://arefazizpour.github.io/
 
 # Links
-google_scholar: YOUR_GOOGLE_SCHOLAR_URL
+google_scholar: https://scholar.google.com/citations?user=5EDdOgkAAAAJ&hl=en
 cv_link: assets/files/Aref-Azizpour-PhD-Resume.pdf
 github_link: https://github.com/arefazizpour
-linkedin: YOUR_LINKEDIN_URL
+linkedin: https://www.linkedin.com/in/aref-azizpour/
 
 # Images
 avatar: ./assets/img/avatar.png
