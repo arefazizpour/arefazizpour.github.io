@@ -8,49 +8,57 @@
    ======================================== */
 
 body {
-  font-size: 16px;
-  line-height: 1.6;
-}
-
-h2 {
-  font-size: 24px;
-  margin-top: 28px;
-  margin-bottom: 16px;
-}
-
-/* Sidebar / profile information */
-header h1 {
-  font-size: 28px;
-}
-
-header p {
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 18px;
+  line-height: 1.65;
 }
 
 /* Main content */
 section {
-  font-size: 16px;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+section p,
+section li {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+/* Section headings */
+section h2 {
+  font-size: 26px;
+  margin-top: 32px;
+  margin-bottom: 18px;
+}
+
+/* Sidebar / profile */
+header h1 {
+  font-size: 30px;
+}
+
+header p {
+  font-size: 17px;
+  line-height: 1.55;
 }
 
 /* Publications */
 .publications ol.bibliography li .title {
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.4;
 }
 
 .publications ol.bibliography li .author {
-  font-size: 15px;
-  line-height: 1.5;
-  margin-top: 3px;
+  font-size: 16px;
+  line-height: 1.55;
+  margin-top: 4px;
 }
 
 .publications ol.bibliography li .periodical {
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.55;
   margin-top: 2px;
 }
 
 .publications ol.bibliography li {
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
