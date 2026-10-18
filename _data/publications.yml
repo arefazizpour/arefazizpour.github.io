@@ -1,5 +1,12 @@
 main:
 
+  - title: "Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution"
+    authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>WACV</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2504.03615
+    # image: ./assets/img/self_adapting.png
+  
   - title: "Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos"
     authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
     conference_short: NeurIPS
@@ -21,13 +28,6 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Nguyen_Forensic_Self-Descriptions_Are_All_You_Need_for_Zero-Shot_Detection_Open-Set_CVPR_2025_paper.pdf
     # image: ./assets/img/fsd.png
-
-  - title: "Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution"
-    authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
-    conference_short: arXiv
-    conference: <strong>arXiv preprint</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2504.03615
-    # image: ./assets/img/self_adapting.png
 
   - title: "E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data"
     authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Manil Shrestha, Kaidi Xu, Edward Kim, Matthew C. Stamm
