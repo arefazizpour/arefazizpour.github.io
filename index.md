@@ -14,6 +14,7 @@ Computer Vision · AI-Generated Media Forensics · Open-World Machine Learning �
 
 ## News
 
+- **[Oct. 2026]** Our work on Self-Adaptive AI-Generated Image Identification Systems was accepted to **WACV 2027**.
 - **[Sep. 2026]** Our work on zero-shot detection of AI-generated videos was accepted to **NeurIPS 2026 as an Oral Presentation**.
 - **[Apr. 2026]** Our work on improving synthetic video detector transferability was accepted to **ACM IH&MMSec 2026**.
 - **[Feb. 2025]** Our work on zero-shot detection of AI-generated images was accepted to **CVPR 2025**.
