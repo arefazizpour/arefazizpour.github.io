@@ -3,7 +3,7 @@ main:
   - title: "Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution"
     authors: <strong>Aref Azizpour</strong>, Tai D. Nguyen, Matthew C. Stamm
     conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>WACV</strong>, 2025.
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>WACV</strong>, 2027.
     pdf: https://arxiv.org/pdf/2504.03615
     # image: ./assets/img/self_adapting.png
   
